@@ -2,6 +2,7 @@ window.onload = function () {
 
   var queryBtn = document.getElementById("queryBtn");
   var cleanUpBtn = document.getElementById("cleanUpBtn");
+  //var verifyBtn = document.getElementById("verifyBtn");
   let lines = [];
   var fileInputV = document.getElementById('file-input');
 
@@ -84,4 +85,7 @@ window.onload = function () {
 
   }
 
+
+
 }
+

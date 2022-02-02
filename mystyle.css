@@ -1,12 +1,32 @@
 button{
-    justify-self: center;
+    
     height: 50px;
     width: 200px;
+    margin: 3px;
 }
 input{
-    justify-content: center;
+    
     width: 200px
 }
 body{
-    align-self: center;
+    text-align: center;
+}
+div{
+    margin: auto;
+    margin-top: 10px;
+}
+#cropper{
+    text-align: center;
+    border: 2px;
+    border-style: double;
+    width: 210px;
+}
+#file-input{
+    margin-bottom: 3px;
+}
+#verifier{
+    text-align: center;
+    border: 2px;
+    border-style: double;
+    width: 210px;
 }
