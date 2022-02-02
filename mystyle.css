@@ -1,0 +1,12 @@
+button{
+    justify-self: center;
+    height: 50px;
+    width: 200px;
+}
+input{
+    justify-content: center;
+    width: 200px
+}
+body{
+    align-self: center;
+}
