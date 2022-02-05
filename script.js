@@ -6,7 +6,7 @@ window.onload = function () {
   let lines = [];
   var fileInputV = document.getElementById('file-input');
 
-  
+
   fileInputV.onchange = function () {
     let fileList = fileInputV.files[0];
     //console.log(fileList);
@@ -88,4 +88,3 @@ window.onload = function () {
 
 
 }
-
